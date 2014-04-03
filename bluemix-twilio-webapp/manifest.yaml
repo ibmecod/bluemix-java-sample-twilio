@@ -1,0 +1,5 @@
+applications:
+- name: bluemix_java_sample_twilio_demo_app
+  memory: 512M
+  host: bluemix_java_sample_twilio_demo_app
+  domain: ng.bluemix.net
