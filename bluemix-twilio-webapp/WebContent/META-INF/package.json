@@ -1,0 +1,8 @@
+{
+ "name": "bluemix_java_sample_twilio_demo_app",
+ "version": "1.0.0",
+ "repository": {
+    "type": "git",
+    "url": "https://github.com/ibmecod/bluemix-java-sample-twilio.git"
+ }
+}
